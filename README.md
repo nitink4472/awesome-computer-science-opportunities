@@ -163,6 +163,11 @@ __Recon__
 * [The Data Science for Social Good Fellowship](https://dssg.uchicago.edu) - It is a University of Chicago summer program to train aspiring data scientists to work on data mining, machine learning, big data, and data science projects with social impact.
 * [The Data Incubator](https://www.thedataincubator.com) - The Data Incubator is an 8-week educational fellowship preparing students with Master's degrees and PhDs for careers in big data and data science.
 * [Kleiner Perkins Fellow - Engineering](http://fellows.kleinerperkins.com) - Kleiner Perkins Fellows program matches accepted fellows up with their partnering Silicon Valley startups over the summer.
+* [Emeritus fellowship](https://www.ugc.ac.in/ef/) - For the superannuated teachers.
+* [Junior research fellowship in science, humanities and social science](https://www.ugc.ac.in/oldpdf/xplanpdf/JRFscience.pdf) - It is for qualifiers of UGC and UGC-CSIR tests.
+* [UGC research fellowships in science for meritorious students](https://www.ugc.ac.in/oldpdf/xiplanpdf/meritorious%20students.pdf) - It is to promote quality research in University/Departments. 
+* [Junior research fellowship in engineering and technology](https://www.ugc.ac.in/oldpdf/xiplanpdf/JRFE-T.pdf) - It is for those who wish to pursue Ph.D. degree in engineering and technology.
+* [Swarnajayanti fellowships scheme](https://dst.gov.in/scientific-programmes/scientific-engineering-research/human-resource-development-and-nurturing-young-talent-swarnajayanti-fellowships-scheme) - For providing special assistance and support to talented young scientist.
 
 ## Programming Events
 
